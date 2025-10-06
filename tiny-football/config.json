@@ -1,0 +1,11 @@
+{
+  "window": { "width": 960, "height": 540, "fps": 120 },
+  "field": { "margin": 40, "wall_thickness": 8, "goal_width": 80, "goal_depth": 20 },
+  "ball":  { "radius": 10, "base_speed": 350, "max_speed": 520, "restitution": 0.98, "friction": 0.995 },
+  "player": { "radius": 16, "speed": 350, "accel": 2600, "min_accel": 800, "max_accel": 4000, "drag": 0.90 },
+  "teams": { "per_team": 2, "max_per_team": 5 },
+  "colors": { "p1": "#4CAF50", "p2": "#2196F3", "active_glow": "#FFD54F", "ball": "#FF7043", "bg": "#0B4F26", "lines": "#DDDDDD" },
+  "force_field": { "enabled": false, "type": "gravity", "strength": 80 },
+  "hud": { "font_size": 20, "show_fps": true }
+}
+
