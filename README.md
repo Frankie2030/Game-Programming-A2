@@ -1,5 +1,14 @@
 # Dream League Soccer 2030
 
+## Members - Group 6
+| **Student name** | **Student ID** |
+|-----|--------|
+| Nguyễn Ngọc Khôi | 2252378 |
+| Nguyễn Quang Phú | 2252621 |
+| Nguyễn Tấn Bảo Lễ | 2252428 |
+| Nguyễn Minh Khôi | 2252377 |
+
+
 ## Concept
 Top-down arcade mini-soccer with two teams of disk players knocking a physics ball to score in left/right goals. Ball bounces off walls and players. Two-player local controls, optional force-field (wind/gravity), and a debug overlay.
 
